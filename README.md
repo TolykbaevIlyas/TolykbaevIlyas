@@ -72,11 +72,69 @@
 ### - 🔧 Learning: 
 
 <p align="left"> 
-<!-- NestJS -->
-<a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NestJS">
-</a>
+  <!-- NestJS -->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NestJS">
+  </a>
+  <!-- Angular
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Angular">
+  </a> -->
+  <!--Vue-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js">
+  </a>
+  <!--Flutter-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Flutter">
+  </a>
+  <!--Php-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Php">
+  </a>
+  <!--Laravel-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Laravel">
+  </a>
+  <!--PostgreSql-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql">
+  </a>
+  <!--Docker-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker">
+  </a>
+  <!--Swagger-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Swagger">
+  </a>
 </p>
+
+### - 💎 Interesting: 
+
+<p align="left"> 
+  <!-- UXDesign -->
+  <a href="#">
+    <img  src=" https://readme-components.vercel.app/api?component=logo&logo=🟪&desc=UI/UXDesign&fill=ffc0cd">
+  </a>
+</p>
+
+### - 📺 Hobbies:
+<p>
+  <!--Listening Music-->
+  <a href="#">
+    <img  src=" https://readme-components.vercel.app/api?component=logo&logo=🎧&desc=ListenMusic&fill=ffc0cd">
+  </a>
+  <!--Read-->
+  <a href="#">
+    <img  src=" https://readme-components.vercel.app/api?component=logo&logo=📕&desc=Read&fill=ffc0cd">
+  </a>
+  <!--Play Game-->
+  <a href="#">
+    <img  src=" https://readme-components.vercel.app/api?component=logo&logo=🎮&desc=Playgames&fill=ffc0cd">
+  </a>
+</p>  
+
 
 
 <div align="center">
