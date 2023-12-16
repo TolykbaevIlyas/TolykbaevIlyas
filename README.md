@@ -13,10 +13,7 @@
   <h2>About:</h2>
 </div>
 
-<div align="center">
-  <h2>Skills:</h2>
-</div>
-
+level: Junior
 
 
 <div align="center">
