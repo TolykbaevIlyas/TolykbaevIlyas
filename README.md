@@ -115,7 +115,7 @@
 <p align="left"> 
   <!-- UXDesign -->
   <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🟪&desc=UI/UXDesign&fill=ffc0cd">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🟪&desc=UI/UXDesign&fill=black">
   </a>
 </p>
 
@@ -123,15 +123,15 @@
 <p>
   <!--Listening Music-->
   <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🎧&desc=ListenMusic&fill=ffc0cd">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🎧&desc=ListenMusic&fill=black">
   </a>
   <!--Read-->
   <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=📕&desc=Read&fill=ffc0cd">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=📕&desc=Read&fill=black">
   </a>
   <!--Play Game-->
   <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🎮&desc=Playgames&fill=ffc0cd">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🎮&desc=Playgames&fill=black">
   </a>
 </p>  
 
