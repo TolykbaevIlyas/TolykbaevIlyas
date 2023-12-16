@@ -23,40 +23,59 @@
   </a>
   <!--NextJS--> 
   <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NextJS&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.JS&svgfill=2d79c7&">
   </a>
   <!-- TypeScript -->
   <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
   </a>
   <!-- Webpack -->
-    <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
   </a>
   <!-- Sass -->
   <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
   </a>
   <!-- JavaScript -->
   <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   </a>
   <!-- HTML -->
   <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5">
   </a>
   <!-- Css3 -->
   <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
   </a>
   <!-- GitHub -->
   <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
   </a>
   <!-- Git -->
   <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
   </a>
+  <!--Tailwind-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Tailwindcss&svgfill=2d79c7">
+  </a>
+  <!--Redux-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Redux">
+  </a>
+  <!--Redux Toolkit-->
+
+</p>
+
+### - 🔧 Learning: 
+
+<p align="left"> 
+<!-- NestJS -->
+<a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NestJS">
+</a>
 </p>
 
 
