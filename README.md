@@ -13,6 +13,10 @@
   <h2>About:</h2>
 </div>
 
+<div align="center">
+  <p>Hello.I'm junior FrontEnd developer from Kazakhstan</p>
+</div>
+
 ### - 💼 FrontEnd Engineer
 
 ### - ⚙️ Skills:
@@ -135,7 +139,9 @@
   </a>
 </p>  
 
-
+<div align="center">
+  <h2>Activity:</h2>
+</div>
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TolykbaevIlyas&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&show_icons=true&icon_color=fff&count_private=true&custom_title=My%20Stats" />
