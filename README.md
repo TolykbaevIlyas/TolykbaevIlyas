@@ -137,6 +137,11 @@
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=🎮&desc=Playgames&fill=black">
   </a>
+  <!--PlayInGuitar-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🎸&desc=PlayOnGuitar&fill=black">
+  </a>
+  
 </p>  
 
 <div align="center">
