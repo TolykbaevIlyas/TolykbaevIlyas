@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <p>Hello.I'm junior FrontEnd developer from Kazakhstan</p>
+  <p>Hello.I'm FrontEnd developer from Kazakhstan</p>
 </div>
 
 ### - 💼 FrontEnd Engineer
