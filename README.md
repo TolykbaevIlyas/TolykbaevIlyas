@@ -148,7 +148,7 @@
   <h2>Activity:</h2>
 </div>
 
-<a href="https://wakatime.com/@018e41d5-e7e4-4769-a4c2-2a894255dfb1"><img src="https://wakatime.com/badge/user/018e41d5-e7e4-4769-a4c2-2a894255dfb1.svg" alt="Total time coded since Mar 15 2024" /></a>
+[![wakatime](https://wakatime.com/badge/user/018e41d5-e7e4-4769-a4c2-2a894255dfb1.svg)](https://wakatime.com/@018e41d5-e7e4-4769-a4c2-2a894255dfb1)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TolykbaevIlyas&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&show_icons=true&icon_color=fff&count_private=true&custom_title=My%20Stats" />
