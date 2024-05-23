@@ -6,6 +6,7 @@
 [![VK Badge](https://img.shields.io/badge/-Вконтакте-4680C2?style=flat-square&logo=vk&logoColor=white&link=https://vk.com/toxesfoxes)](https://vk.com/tilyask)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/toxesfoxes/)](https://www.twitter.com/tilyask/) -->
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/toxesfoxes)](https://t.me/TilyasK)
+[![wakatime](https://wakatime.com/badge/user/018e41d5-e7e4-4769-a4c2-2a894255dfb1.svg)](https://wakatime.com/@018e41d5-e7e4-4769-a4c2-2a894255dfb1)
 
 </div>
 
@@ -147,8 +148,6 @@
 <div align="center">
   <h2>Activity:</h2>
 </div>
-
-[![wakatime](https://wakatime.com/badge/user/018e41d5-e7e4-4769-a4c2-2a894255dfb1.svg)](https://wakatime.com/@018e41d5-e7e4-4769-a4c2-2a894255dfb1)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TolykbaevIlyas&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&show_icons=true&icon_color=fff&count_private=true&custom_title=My%20Stats" />
