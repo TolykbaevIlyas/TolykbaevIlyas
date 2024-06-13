@@ -15,11 +15,10 @@
 </div>
 
 <div align="center">
-  <p>Hello.I'm FrontEnd developer from Kazakhstan</p>
+  <p>Hi.I'm FrontEnd developer from Kazakhstan</p>
 </div>
 
-### - 💼 FrontEnd Engineer
-
+### - 💼 Frontend developer
 ### - ⚙️ Skills:
 <p align="left">  
   <!-- React -->
@@ -71,7 +70,13 @@
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Redux">
   </a>
   <!--Redux Toolkit-->
-
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ReduxToolkit">
+  </a>
+  <!--MUI-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MUI">
+  </a>
 </p>
 
 ### - 🔧 Learning: 
