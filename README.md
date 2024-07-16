@@ -80,6 +80,9 @@
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GraphQl">
   </a>
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ReactHookForm">
+  </a>
 </p>
 
 ### - 🔧 Learning: 
