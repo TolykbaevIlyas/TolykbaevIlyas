@@ -77,6 +77,9 @@
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MUI">
   </a>
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GraphQl">
+  </a>
 </p>
 
 ### - 🔧 Learning: 
