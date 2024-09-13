@@ -6,8 +6,8 @@
 [![VK Badge](https://img.shields.io/badge/-Вконтакте-4680C2?style=flat-square&logo=vk&logoColor=white&link=https://vk.com/toxesfoxes)](https://vk.com/tilyask)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/toxesfoxes/)](https://www.twitter.com/tilyask/) -->
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/toxesfoxes)](https://t.me/TilyasK)
-[![wakatime](https://wakatime.com/badge/user/018e41d5-e7e4-4769-a4c2-2a894255dfb1.svg)](https://wakatime.com/@018e41d5-e7e4-4769-a4c2-2a894255dfb1) </br>
-[![CodeWars](https://www.codewars.com/users/TolykbaevIlyas/badges/large) 
+[![wakatime](https://wakatime.com/badge/user/018e41d5-e7e4-4769-a4c2-2a894255dfb1.svg)](https://wakatime.com/@018e41d5-e7e4-4769-a4c2-2a894255dfb1) </br> </br>
+![CodeWars](https://www.codewars.com/users/TolykbaevIlyas/badges/large) 
 
 </div>
 
