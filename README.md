@@ -75,6 +75,10 @@
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ReduxToolkit">
   </a>
+  <!-- UXDesign -->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🟪&desc=UI/UXDesign&fill=black">
+  </a>
   <!--MUI-->
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MUI">
@@ -132,9 +136,9 @@
 
 <p align="left"> 
   <!-- UXDesign -->
-  <a href="#">
+<!--   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=🟪&desc=UI/UXDesign&fill=black">
-  </a>
+  </a> -->
 </p>
 
 ### - 📺 Hobbies:
